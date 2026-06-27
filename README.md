@@ -1,4 +1,4 @@
-# Hey! :
+# Hey! 
 ## 👋 About Me<br><br>I'm a Computer Science Engineering student with a strong interest in software development and problem-solving. I enjoy building scalable applications and continuously expanding my knowledge of modern technologies. My current focus is on Java, Spring Boot, Data Structures & Algorithms, Full Stack Development, and Artificial Intelligence. I believe in writing clean, maintainable code and learning through hands-on projects. I'm committed to improving my technical skills by solving coding challenges and developing real-world applications. I enjoy exploring new technologies, contributing to meaningful projects, and continuously growing as a software engineer. My long-term goal is to build impactful software solutions and pursue a career as a Software Development Engineer.
 
 
